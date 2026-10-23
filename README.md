@@ -1,5 +1,7 @@
 # Riptide Runner
 
+![Riptide Runner](images/banner.jpg)
+
 A 3D jet-ski endless runner in the style of Subway Surfers and Temple Run. Ride from the rider's handlebar view (or a chase camera) through six worlds, with a checkpoint gate between each:
 
 - **Glen Canyon** — Lake Powell, Utah: sandstone walls, the white "bathtub ring", mirror-calm water
@@ -10,6 +12,15 @@ A 3D jet-ski endless runner in the style of Subway Surfers and Temple Run. Ride 
 - **Dead Marsh** — a foggy bayou at night with zombies
 
 Features: real-time water reflections, engine/jet-pump/water-slap sound, phone vibration, coins, ramps, magnet / shield / turbo power-ups, and a revive.
+
+## Worlds
+
+| | | |
+| --- | --- | --- |
+| ![Glen Canyon](images/canyon.jpg) | ![Bali Coast](images/bali.jpg) | ![Phang Nga Bay](images/thai.jpg) |
+| **Glen Canyon** · Lake Powell | **Bali Coast** · Indonesia | **Phang Nga Bay** · Thailand |
+| ![Dino Delta](images/jungle.jpg) | ![Planet Xeno](images/alien.jpg) | ![Dead Marsh](images/zombie.jpg) |
+| **Dino Delta** · lost world | **Planet Xeno** · alien sea | **Dead Marsh** · zombie bayou |
 
 ## Play
 
